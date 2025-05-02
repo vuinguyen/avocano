@@ -6,7 +6,7 @@
       {
         "source": "/api/**",
         "run": {
-          "serviceId": "server",
+          "serviceId": "server-cc7e",
           "region": "us-central1"
         }
       }
